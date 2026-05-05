@@ -1,0 +1,27 @@
+# PocketDeck .gitignore
+
+# MicroPython compiled bytecode
+*.mpy
+__pycache__/
+
+# macOS metadata
+.DS_Store
+
+# Windows metadata
+Thumbs.db
+desktop.ini
+
+# Thonny settings
+.thonny/
+
+# Byte-compiled files
+*.pyc
+
+# Editor config
+.vscode/
+.idea/
+
+# Build artifacts
+*.uf2
+build/
+dist/
