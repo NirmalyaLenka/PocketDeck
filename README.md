@@ -226,6 +226,34 @@ You are free to use, modify, and distribute this project for personal or commerc
 
 ---
 
+## Skills & technologies
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/NirmalyaLenka/PocketDeck)
+
+
+## Repository structure
+
+Key files and folders (not an exhaustive listing):
+
+- `CONTRIBUTING (3).md`
+- `LICENSE (3)`
+- `README.md`
+- `bom (1).csv`
+- `display_manager.py`
+- `gitignore (3)`
+- `hardware readme.md`
+- `hid_keyboard.py`
+- `index.svg`
+- `main.py`
+- `profiles.py`
+- `st7735.py`
+
+
+## How it works
+
+Python source includes `display_manager.py`. Review configuration and required hardware/services before running; use a virtual environment and the project-specific setup instructions.
+
+
 ## Maintenance & Audit
 
 - **Audit date:** 10 November 2026
